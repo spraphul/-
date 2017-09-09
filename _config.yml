@@ -12,7 +12,7 @@ url: "https://le4ker.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /home
 
 # Google tracking id
 
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Praphul Singh"
+title: "{ Praphul Singh }"
+description: "Blog and website of Praphul Singh, blogging mainly for tech. Opinions expressed are mine."
+keywords: "Singh, Praphul, resume, blog, about"
 favicon: "/img/favicon.ico"
 
 ################
@@ -185,7 +185,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: spraphul
 keybase-in-social: True
 keybase-in-footer: True
 
