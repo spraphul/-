@@ -131,10 +131,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/kanpur.png"
     date: "August 2015 - Today"
     description: "IIT Kanpur"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/school.jpg"
     date: "August-2014"
     description: "Left School"
   - image: "/img/timeline/profile.jpg"
