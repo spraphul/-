@@ -57,8 +57,12 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "The greatest pleasure in life is doing what people say you cannot do."
-  - text: "You’ve gotta dance like there’s nobody watching,Love like you’ll never be hurt,Sing like there’s nobody listening,And live like it’s heaven on earth."
-
+  - text: "Never steal. The government hates competition."
+  - text: "Light travels faster than sound. This is why some people appear bright until they speak."
+  - text: "Smile…It confuses people..!!"
+  - text: "If you fail to prepare,then prepare to fail"
+   - text: "Silence and smile are two powerful tools. Smile is the way to solve many problems and silence is the way to avoid many problems."
+  
 me-img: "/img/timeline/profile.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
