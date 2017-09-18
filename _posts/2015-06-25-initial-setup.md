@@ -1,14 +1,18 @@
 ---
 layout: post
 section-type: post
-title: Initial setup
-category: tech
-tags: [ 'tutorial' ]
+title: 3 Years in Kanpur
+category: Bio
+tags: []
 ---
 
-All features of { Personal } are controlled by setting values to variables that are defined in the
-\_config.yml file. Let's start with the initial variables that you have to set before
-serving your { Personal } website for the first time.
+Hey guys, Its Praphul. Are you a Kanpurite?. If Yes, You are at right site. I remained a student of class XI and XII from
+C.B.S.E board in Kanpur in Guru Nanak Public School.I also prepared there
+for IIT JEE in Kakadeo and I want to keep the
+memories of these three years ever alive. The
+memories which perhaps can never be regained. The friends, the teachers, the
+hostels and the city(What a enjoyous and lovely life it was!). Here, I understood what life really means. I learnt here to learn practically and
+in true words I am not gonna let them go from my life...
 
 ### Essential variables
 
