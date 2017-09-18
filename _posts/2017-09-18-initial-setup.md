@@ -65,7 +65,7 @@ evening. Father met Anant sir and said me, “We have great hopes from you.”(v
 And then returned.
 Now the time was to take admission in school. I wanted a school where
 attendance was not a mandatory stuff.
-But searching for such a school with vacant seats really proved to be a tough deal the new city. I went for many schools like Virendra swaroop,
+But searching for such a school with vacant seats really proved to be a tough deal in the new city. I went for many schools like Virendra swaroop,
 M.P.E.C, Jugaldevi, KVs, and Puranchand  but not a single one was there
 with a vacant seat.
 I also went to Sir Padampat Singhania School. It was a nice school just
