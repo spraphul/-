@@ -184,31 +184,151 @@ for me.
 But I thought that I will somehow manage to convince him and moved
 forward concentrating on my target.
 
-### Google Analytics
+### Determination to grab something
 
-The Google tracking code will be placed in every generated page.
-If you don't want Google analytics tracking your website's traffic, set the google-tracking-id to an empty string.
+Now let me tell you about my physics classes.It was the lecture of mechanics in
+which sir put a problem before us in the class and said that the one who solves it
+in three minutes will get a hundred rupee note. Our heartbeat grew faster and my
+whole body sweated up in that air-conditioned room(I wanted the note for a treat).
+When the time started , our pen ran like storm and we lost our connection
+from the world and the question only was my world at that time. When the
+time was up, three students were there raising their
+hands(me, Dhanraj and Sajal). Everyone told their answer and methods to sir
+and finally I was there with the right answer and this time I felt that I can be something special(to me, my parents and my teachers). Infact every person has some face he/she has not seen.
+Then in every test I tried my best and despite of getting second or third rank
+I was happy and always tried to be first.
+This desire of me was also fulfilled in the test of Fluid mechanics in which I
+scored 100/140 and stood first.
+I started clearing my concepts from the book of H.C verma (concepts of
+physics) in class XI. On the day I bunked school spent 5-7 hours on Physics
+only and rarely gave time to chemistry.
 
-<pre><code data-trim class="yaml">
-google-tracking-id: "UA-35880426-4"
-</code></pre>
+### Don’t be partial, be perfect
 
-### Serving { Personal }
+I was taught that if you are good at two subjects you will get selected but to
+get a good rank you need to be perfect in all the three subjects.
+As I have told before that chemistry was not a subject of interest for me.
+Sometimes I feared that I probably will not get selected due to this subject.
+My physics teacher suggested me to join the classes of Pankaj Sir.
+As it was my weak point I was strongly desperate to master the subject and
+took admission there in class XII.
+Two teachers were there, Pankaj Sir and Nirmal Sir. They taught so well that
+after one year I was having a real confidence in the subject.
 
-Install the required dependencies:
+### The combination of management with labour leads you to success...
 
-<pre><code data-trim class="bash">
-gem install jekyll jekyll-paginate jemoji html-proofer
-</code></pre>
+Now the results of class XI were out and fortunately I stood first. That day
+the chemistry teacher in my school who punished me the whole year came to
+me and said, “ Mr. Praphul Singh, I don’t care whether you come school or not but
+one thing I need from you is the result.”
+I was just surprised and had no words to say then. Now this was the time for
+real challenge. In this year we had to manage the boards and the JEE
+as well. In this year I met a new student Dhanraj Naikwade. He was a brilliant
+student and a nice guy too. We became good friends and later on I shifted in
+his hostel in R.S Puram. He was very cooperative and was like a
+brother to me.
+It seems funny to remember that I lost his bicycle once and he gave a
+sad smile and was trying to hide those tears as the
+cycle was given to him by his father on his birthday and made me emotional
+too at the moment. I used to enjoy a lot when he talked his family on phone
+in Marathi. His chemistry ,specially organic was very good. In the class we sat
+together, discussed a lot and this really helped me a lot to improve the subject(Chemistry).
+We sat and studied late till 4 or 5 in the morning. It became an emotional
+moment for me when he was leaving the hostel but there were lots of tasks for me to do.
+My brother Prashant Singh played the most crucial role in my study. He in
+every step chided me , criticised me a lot and encouraged me to the height he
+can. He didn’t let me do any other work. He used to wash all my clothes and
+every morning brought breakfast for me.
+In the new hostel, I was happy to see the studious environment. Manish
+Bhaia, my brother like batchmate discussed a lot with me.
+Now in class XII, I started becoming topper in many of the exams of Physics
+and maths. But still I was not able to perform that much in chemistry. In
+class XII, my friendship with Sajal and Kushagra ripened. We became good
+friends. Sajal and I used to ask a lot of challenging questions to each other
+which was a good contribution to our research work in Physics, Chemistry
+and Maths.
+In the new hostel, I met two more personalities Krishna Bhaia and his
+younger brother Anoop. The latter was preparing for the same exam. He
+used to keep a lot of books of great authors like A.M Agarwal, S.k Goyal,
+Cengage learning, D.C Pandey and much more. Here I changed the trend of
+my preparation and started focusing on books apart from the assignments.
+In the hostel, I was the youngest one and every one treated me like a younger
+brother and created no disturbance to my studies. Manish bhaia who was
+studying in the same batch used to discuss a lot of problems daily with me.
+In the school too, now I was not tortured for the attendance and I therefore
+merely attended the school that year.
+My performance became better in maths and physics and even in chemistry
+but in this subject I was not getting the real confidence. From march 1 my
+boards started and exactly for the next 24 days I focused totally on the boards and in
+this Manish Bhaia also helped me a lot as he himself was a board topper and
+guided me and I did all that smartly.
+On 24th march boards were over and now, I had 10 days left for the JEE
+Mains. My brother went to Aligarh so that I could focus totally on my
+studies. I in a very well designed manner prepared for the exam. The
+environment at examination centre was pressurising. More than 500 students
+were there. The exam started at 9:30 am. I was very nervous and when the
+paper came in my hands my hands were trembling. Sweat, sweat and sweat
+was all there.
+The first section was Maths. The first question was of quadratic equation and
+although it was an easy question, I was not getting the answer. I wasted my 4
+minutes. My heart beat rose and I was not confident enough to solve the rest
+89 questions. Then I recalled the advice my teacher that I was required to
+attempt chemistry first. So did I then.
+In 30-35 minutes, I managed to solve the chemistry section. Now I picked up
+the physics and then mathematics section and the question I left in the first
+attempt there was solved so easily that I can’t tell you.
+And finally I managed to make the exam at right time. I did too many silly
+mistakes. So the result was not satisfying but a descent one and I got 250/360
+in mains. I prepared for the advanced exam and was in a good flow and
+finally the day came on 25th of May. In Paper I, I did well but was not that
+confident. I really had very less control over chemistry which troubled me a
+lot. Somehow my strengths of physics and maths took me to the miles and at
+5:00 pm it was all over. Things were disappointing me a lot. When the result
+was out I got AIR 7720 and was totally broken up. I secretly cried a lot. It
+was like my heart has been taken and for somedays I was like a person with
+no motive, no aim, no destination to reach. I disappointed my parents and
+my teachers.
+I left the hostel and returned home. My parents advised me to take part in
+counselling but I didn’t as I knew a general rank of 7720 was not going to
+give me a college like IIT Kanpur. My physics teacher phoned me and his
+words were to me were- “ Praphul, you are born to do something great for
+your parents so don’t just give up and fight again.”
 
-Serve the jekyll website:
+And finally after I month I decided to give one more try. I joined the
+chemistry classes and decided to prepare the rest by my own.
+By the time I had realised my drawbacks which were hidden behind my
+strengths. My efficiency and speed was great but my accuracy was not good
+enough. I practised a lot but analysed very less.
+Instead of staying in a hostel, I took a portion of two rooms in a house on
+rent and stayed there with three boys who were my close friends. Again I
+started practising a lot and the extent gets cleared from the data that in 1
+month I solved more than 10,000 problems.
+Then Anant sir told me to get some subjective approach and then I started
+solving subjective problems from books like Cengage Learning, S.K Goyal,
+A.M Agarwal, Abhay Singh and also took the so called DLPs of Bansal
+Classes.
+To improve my accuracy I joined the test series of Bansal Classes, Resonance
+Classes and Utkarsh Gail Super 100. I was feeling the improvement through
+the scores in the test series. Now my competition was not limited to the mere
+2-3 thousand students while it included the students from all over India.
+I started becoming more and more ambitious and pulled myself to AIR 7 in
+the test series. I stood fifth in physics once and many precious ranks were
+there. The chemistry which feared me a lot the previous year became as
+strong as maths. Now I was not expecting anything but just wanted to grab
+as much as I can. It was not that I studied like 14-15 hours a day instead I
+just gave 7-8 hours daily but honestly. I skipped all the topics that were
+exclusively for mains and focused on the topics of advanced only.
+So this time I scored 270 in mains and was pretty sure of getting a good rank
+in advance. But life doesn’t always pay you your expectations and so it did to
+me. I got AIR 555 and not under 200 which I expected but this was a
+beautiful and special rank for me and I was happy with the three 5s.
+So finally the ink on the 100 thick rough copies showed me its colour and my
+dream had now become reality.
 
-<pre><code data-trim class="bash">
-./scripts/serve-production
-</code></pre>
+The ‘3 years in Kanpur’, a collection of some unforgettable memories and
+some words and examples for students like me is this much. This period of
+time gave me many examples which can defeat you, let you break, let you cry,
+make you stand and make you successful. Hope you read and enjoy it.
 
-That's it!
+### Praphul Singh(IIT Kanpur)
 
-Visit [http://127.0.0.1:4000](http://127.0.0.1:4000) and you are ready to start hacking around your { Personal } website!
-
-<small>Many thanks to <a href="https://github.com/joariasl" target="\_blank">@joariasl</a> for the language support! </small>
