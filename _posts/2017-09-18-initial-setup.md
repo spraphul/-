@@ -122,33 +122,67 @@ Eventually I also started enjoying the free periods. Now in the first unit test,
 I got merely 50% marks which was out of the range of my imaginations. For
 the first year , I had no attachment for the school, I swear.
 
-### HTTPS
+### Greed for chocolate
 
-By default { Personal } will enforce https by javascript redirection.
-HTTPS is important because it encrypts the data sent between the client and the server.
-If you are hosting on GitHub Pages then it will just work, because your website
-will be piggybacking GitHub's certificate.
-If you are hosting your website in a server that doesn't have a certificate and
-you don't want to issue one, then you can disable this feature by setting the following
-variable to False:
+A new chapter then began in my chemistry class, Mole Concept. For it we
+had to wait for one boring month of Nomenclature.
+Respected GD Verma sir organised a class test in which I with my friend
+stood first with 80/80 score and then I came to know the rule of the class
+that our teacher gave chocolates to the first five rank holders.
 
-<pre><code data-trim class="yaml">
-force-https: True
-</code></pre>
+I also got a Cadbury. But this was a small offer before the one Sahvan sir
+gave us. He organised a test and announced a prize money of Rs 500 for the
+first ranker. But sadly I could not manage to get it and remained very behind.
+Everything was happening beyond my expectations which was trying to
+demoralize me but I took faith in me and encouraged myself for the next
+challenge.
 
-### HTML Head
+The most interesting subjects for me were Maths and Physics. I had no
+interest for chemistry initially in class XI. But even though for chocolates I
+managed to get into the first five ranks.
 
-<pre><code data-trim class="yaml">
-lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
-err-404-img: "/img/labtocat.png"
-</code></pre>
 
-The values that you set, will be placed in the head section of every generated HTML page.
+### Choose one, “ FRIEND OR TARGET”
+
+I met another friend Utkarsh Katiyar this time in maths class. He was a
+talented boy and now he is in NDA and surely after somedays, he
+will be at some good post serving the country.
+We were very good friends but an incident
+brought too much sourness in our friendship.
+Actually Sahvan Sir took a series of three tests on Calculus in which he
+offered us that the first five rankers will get a chance to go with him on a
+treat to Landmark(a five star HOTEL) and on a trip to IIT Kanpur. We were very excited and prepared hardly
+for the test but I stood fifth  and was really very disappointed by the
+result.
+I was very sad and stopped talking to anyone, even Utkarsh and Deepak who
+respectively got third and fourth positions.
+Utkarsh mistook my intention and thought that perhaps by his third rank I
+was not happy and was not talking to him and he even put this matter to me.
+Listening this I smiled and hugged them and told them that I had no problem
+with their good ranks but I was depressed of my bad one.
+Anyway after somedays Sahvan sir put another proposal to the four boys
+Sajal, Kushagra,Utkarsh and Deepak to stay there in the hostel which was a part of the insti so that he can give personal attention to them.
+To this Sajal and Kushagra refused on the spot but Utkarsh and Deepak said
+a yes to him. I was not still into the topic as I was a kind of boy who mostly
+stayed out of these talks and was related to the teacher only for questions of
+maths and nothing else.
+Then Utkarsh put my name before Sahvan Sir who didn't  recognise me initially.
+He called me and asked me about the proposal to which I was not sure but
+asked him for some time as I wanted to discuss the matter with my parents.
+They agreed and Utkarsh took me to his home to convince his parents.
+They agreed too. Utkarsh and Deepak shifted to the hostel and then I came to
+know that I was required to leave the physics and chemistry classes and do self study only. As self study is a good thing but I still had
+not completed the full syllabus of IIT JEE and for that I required the
+assistance of the teachers. Now that was a great decisive moment for me as
+my study and friendship were at stake.
+Then I talked to Anant sir about the matter to which he strictly suggested me
+not to leave the classes.
+Then I said with hard words a “no” to my friends.
+
+After this Utkarsh stopped talking to me and Deepak was still a great friend
+for me.
+But I thought that I will somehow manage to convince him and moved
+forward concentrating on my target.
 
 ### Google Analytics
 
