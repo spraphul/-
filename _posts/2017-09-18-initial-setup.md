@@ -126,7 +126,7 @@ the first year , I had no attachment for the school, I swear.
 
 A new chapter then began in my chemistry class, Mole Concept. For it we
 had to wait for one boring month of Nomenclature.
-Respected GD Verma sir organised a class test in which I with my friend
+Respected GD Verma(***Sarcasm***) sir organised a class test in which I with my friend
 stood first with 80/80 score and then I came to know the rule of the class
 that our teacher gave chocolates to the first five rank holders.
 
