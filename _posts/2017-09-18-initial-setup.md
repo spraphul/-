@@ -92,21 +92,35 @@ We became friends and afterward he told me that GNPS is a missionary
 school but attendance is compulsory there. But I had no choice. Then with no
 delay I along with Deepak and my brother took admission there.
 
-### Coloring
+### First day at school
 
-You can define the colors that you want in your { Personal } website by setting
-the following variable sin the /_sass/_variables.scss file:
+My first day at school was also quite interesting because it was the day when I
+met some people who are more like brothers to me now and some who
+played the role of bones in the flesh for me too.
 
-<pre><code data-trim class="scss">
-// Main color
-$primary-color: #000;
+We had initially no school dress and we all got white dresses and entered the
+school. Students were staring us like we were some kind of corpses in the
+crowd of livings .Their boggalled eyes were confusing us a lot but we put on
+our own way.
+In every 45 minutes a new teacher was coming and we were introduced with
+their unique styles. But the most interesting entry was of my English Teacher,
+Shakti Ma’am.  As the name suggests she had great power in her hand too and
+that I got to know after some days. She entered the class and shouted
+loudly, “ Listen everyone, as the classes are being held since the month of
+April and many chapters have been taught, so I am not going to repeat them
+all.”
+Her rudeness thrilled me, I don’t know about others. But a contrasting fact is
+that she was impressed by me the most. And I obviously had no problem. Afterall she
+was not an old lady. Yeah she did a lot for me too as she used to give me full marks
+in vivas even if I didn’t attend any and much more.
 
-// Anchor color
-$secondary-color: #00cdff;
-
-// Font color
-$font-color: #fff;
-</code></pre>
+I used to go school alternately and almost everytime gave the same reason for
+the absence. My class teacher whom I hated the most in XI understood my
+evils completely and after that everyday I went school, I was punished and
+was kept outside the class for the first two periods.
+Eventually I also started enjoying the free periods. Now in the first unit test,
+I got merely 50% marks which was out of the range of my imaginations. For
+the first year , I had no attachment for the school, I swear.
 
 ### HTTPS
 
