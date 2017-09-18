@@ -6,7 +6,7 @@ category: Bio
 tags: []
 ---
 
-Hey guys, Its Praphul. Are you a Kanpurite?. If Yes, You are at right site. I remained a student of class XI and XII from
+Hey guys, Its Praphul. Are you a Kanpurite? If Yes, You are at right site. I remained a student of class XI and XII from
 C.B.S.E board in Kanpur in Guru Nanak Public School. I also prepared there
 for IIT JEE in Kakadeo and I want to keep the
 memories of these three years ever alive. The
