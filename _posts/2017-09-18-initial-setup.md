@@ -307,7 +307,7 @@ Then Anant sir told me to get some subjective approach and then I started
 solving subjective problems from books like Cengage Learning, S.K Goyal,
 A.M Agarwal, Abhay Singh and also took the so called DLPs of Bansal
 Classes.
-To improve my accuracy I joined the test series of Bansal Classes, Resonance
+To improve my accuracy I took the test series of Bansal Classes, Resonance
 Classes and Utkarsh Gail Super 100. I was feeling the improvement through
 the scores in the test series. Now my competition was not limited to the mere
 2-3 thousand students while it included the students from all over India.
