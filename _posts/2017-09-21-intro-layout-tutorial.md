@@ -1,19 +1,15 @@
 ---
 layout: post
 section-type: post
-title: Modifying the Header
-category: tech
+title: Using Transfer Learning
+category: Deep Learning
 tags: [ 'tutorial' ]
 ---
 
-The intro part of the index page (Header) is consisted of four elements:
-
-<ol>
-  <li>A black favicon</li>
-  <li>Background image</li>
-  <li>Welcome text</li>
-  <li>Your image</li>
-</ol>
+### Transfer Learning
+To explain this, let us take the example of Inception-v3(an image classifying model), developed by Google.
+This model has been trained on a huge dataset of images(Imagenet) which consists more than a million images 
+of over 1000 classes. 
 
 ### Black favicon
 
