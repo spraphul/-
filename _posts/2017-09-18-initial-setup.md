@@ -24,7 +24,7 @@ Deepak, Dhanraj, Dilip,Gaurav(Puri), Utkarsh,Sajal, kushagra, Manish
 Bhaia, Krishna bhaia , Dharmveer and many more, here we go...
 
 ### First Step In The City
-***It was 15th of May 2012 when after saying a bitter good bye to my family in a small
+It was 15th of May 2012 when after saying a bitter good bye to my family in a small
 town Nichlaul, I left for Kanpur all alone with
 nothing in my hand but just a bag having some clothes piled inside and of
 course an ATM card too.I arrived Kanpur central(CNB) at 11 in the night.
@@ -78,7 +78,7 @@ Gangwani in the Chemistry class. He looked like a ***champu*** but now-a-days(to
 so many girls around him. He sat besides me and asked, “ how much did you
 get in the test?”
 
-***“56/96”, I said.
+“56/96”, I said.
 “OK, Mine is 66”, he said (don’t know why, a show off kinda thing). He annoyed me at that moment as I was in a bad situation of fear of not
 getting admission in a school.
 But this guy proved to be a great friend of mine. I had no friend with such
@@ -90,7 +90,7 @@ Then in the next class, I met another idiot, Gaurav Puri. He was though a
 miser one but great at heart.
 We became friends and afterward he told me that GNPS is a missionary
 school but attendance is compulsory there. But I had no choice. Then with no
-delay I along with Deepak and my brother took admission there.***
+delay I along with Deepak and my brother took admission there.
 
 ### First day at school
 
