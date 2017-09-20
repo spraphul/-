@@ -15,7 +15,7 @@ hostels and the city(What a enjoyous and lovely life it was!). Here, I understoo
 in true words I am not gonna let them go from my life...
 
 The second reason for this long blog is to make the students of kanpur
-realise what one needs to do when there is a dream to fulfill and what it feels
+realise what one needs to do when there is a dream to fulfill and how it feels
 when things do not happen to your expectations.
 
 So, finally wasting no more lines and dedicating those to my Parents, my
