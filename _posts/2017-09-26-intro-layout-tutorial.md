@@ -46,7 +46,7 @@ python label_image.py image_name.jpg
 
 </code></pre>
 
-*** We have now learnt the basics of how to use transfer learning. But a good model doesn't only requires a structure. Apart from a good structure, good accuracy is also required. If you retrain the Inception-v3 model for small number of classes(less than 25), it will give you a descent accuracy(~80%) if other hyperparameters are set wisely. But if the number of classes are increased to say 150. It will be a hazard, giving you merely 30-40% accuracy. In the next blog we will see such a problem and 
+*** We have now learnt the basics of how to use transfer learning. But a good model doesn't only requires a structure. Apart from a good structure, good accuracy is also required. If you retrain the Inception-v3 model for small number of classes(less than 25), it will give you a decent accuracy(~80%) if other hyperparameters are set wisely. But if the number of classes are increased to say 150. It will be a hazard, giving you merely 30-40% accuracy. In the next blog we will see such a problem and 
 and see some ways to tackle it. *** 
 
 
