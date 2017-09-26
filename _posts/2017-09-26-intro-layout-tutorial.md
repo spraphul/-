@@ -20,7 +20,7 @@ Here transfer learning comes into play. According to wikipeda, " Transfer learni
 First Step is to Prepare the dataset
 <pre><code data-trim class="none">
 
-1.Download the dataset for the labels you want to classify.
+1.Download the dataset for the labels you want to classify. For each class, you should have 1000 images at least.
 2.Keep the images of each label in a separate folder and give the folder a name same as the label.
 3.Put all the folders in a single folder and name it.
 4.That's it, you have prepared your datset.
@@ -45,6 +45,9 @@ python label_image.py image_name.jpg
 6.Now you have learnt to classify your own dataset using transfer learning.
 
 </code></pre>
+
+*** We have now learnt the basics of how to use transfer learning. But a good model doesn't only requires a structure. Apart from a good structure, good accuracy is also required. If you retrain the Inception-v3 model for small number of classes(less than 25), it will give you a descent accuracy(~80%) if other hyperparameters are set wisely. But if the number of classes are increased to say 150. It will be a hazard, giving you merely 30-40% accuracy. In the next blog we will see such a problem and 
+and see some ways to tackle it. *** 
 
 
 
