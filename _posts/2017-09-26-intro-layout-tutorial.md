@@ -18,23 +18,33 @@ Here transfer learning comes into play. According to wikipeda, " Transfer learni
 ### Retraining Inception-v3 for our own dataset
 
 First Step is to Prepare the dataset
-<pre><code data-trim class="yaml">
--Download the dataset for the labels you want to classify.
--Keep the images of each label in a separate folder and give the folder a name same as the label.
--Put all the folders in a single folder and name it.
--That's it, you have prepared your datset.
+<pre><code data-trim class="none">
+
+1.Download the dataset for the labels you want to classify.
+2.Keep the images of each label in a separate folder and give the folder a name same as the label.
+3.Put all the folders in a single folder and name it.
+4.That's it, you have prepared your datset.
+
 </code></pre>
 
-<pre><code data-trim class="c">
-{% raw %}
-int main()
-{
-  printf("Hello, world of syntax highlighting!");
+### Train the dataset
 
-  return 0;
-}
-{% endraw %}
+<pre><code data-trim class="none">
+1.You need to have two codes for it.
+2.First one is the retrain code given in the tensorflow repository.
+ This code downloads the inception model and trains the dataset.
+3.Second one is the label_image code to predict the label.
+4.Use the retrain code in terminal using the code given below:
+
+python retrain.py   --bottleneck_dir=bottlenecks   --how_many_training_steps=1000 --train_batch_size=100   --model_dir=inception   --summaries_dir=training_summaries/basic  --output_graph=retrained_graph.pb   --output_labels=retrained_labels.txt   --image_dir= Dataset_Name
+
+5.Use the label-image in terminal like this:
+
+python label_image.py image_name.jpg
+
+6.Now you have learnt to classify your own dataset using transfer learning.
+
 </code></pre>
 
-<small>If you don't need syntax highlight in your website you can disable it by setting the syntax-highlight variable to False</small>
+
 
