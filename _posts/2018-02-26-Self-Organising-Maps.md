@@ -30,6 +30,7 @@ algorithms are said to be Unsupervised.
 SOM also known as Kohenen's Self Organising Maps is an unsupervised learning algorithm which maps the dataset onto a plane and the plane can be any dimensional. Intuitively, it can be considered as a clustering algorithm. Now, if the dimension of the plane over the data is to be mapped is less than that of input data, we can say that SOM also contributes in reducing the dimension of data(data compression). But the best part of SOM is that despite of reducing the dimensions, it does not result in losing topological relationships of the data. 
 
 ## Architecture
+![Alt text](../Image10.jpg?raw=true "Title")
 
 
 
